@@ -1,5 +1,4 @@
-![](https://github.com/TomasSQuintero/TomasSQuintero/blob/main/giphy.webp)
-
+<div align ="center">![](https://github.com/TomasSQuintero/TomasSQuintero/blob/main/giphy.webp)</div>
 <!---
 - 👋 Hi, I’m @TomasSQuintero
 - 👀 I’m interested in ...
