@@ -1,5 +1,5 @@
 <p align ="center">
-  <img src="https://github.com/TomasSQuintero/TomasSQuintero/blob/main/giphy.webp" alt="shaun"/>
+  <img src="https://github.com/TomasSQuintero/TomasSQuintero/blob/main/ghibli-sunset.gif" alt="sunset"/>
 </p>
 <!---
 
